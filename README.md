@@ -2,7 +2,7 @@
 Baseball Analytics Repo for my research paper on Batter Approach vs. Run Differential 
 
 
-Abstract:
+# Abstract:
 I investigated three questions surrounding batters’ plate approaches in terms of
 the pitch count per at bat. I wanted to know if batters change their approach in different
 game situations, if batters change their approach in close games, and if batters “give
